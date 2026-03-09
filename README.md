@@ -400,7 +400,3 @@ Abu Rayan
 - Spring Boot Documentation
 - Thymeleaf Documentation
 - Unsplash for sample images
-
----
-
-**Made with coffee and love**
